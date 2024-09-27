@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  font-family: "Happy Monkey", system-ui;
+  background: #a2d2ff;
+  color: #ffffff;
+}
+
+
+#Bday_image {
+  width: 150px;
+  border-radius: 50%;
+  border: 6px solid #EF88C9
+}
+

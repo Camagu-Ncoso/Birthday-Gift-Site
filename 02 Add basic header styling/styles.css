@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  font-family: "Happy Monkey", system-ui;
+}
+
+/* .happy-monkey-regular {
+  font-family: "Happy Monkey", system-ui;
+  font-weight: 400;
+  font-style: normal;
+} */
+
+
+#Camagu_pic {
+  width: 150px;
+  border-radius: 50%;
+}
+

@@ -1,0 +1,15 @@
+div {
+  text-align: center;
+  color: white;
+  margin: 5px;
+  padding: 25px 0;
+  background: #e5383b;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+div:hover {
+  background: #ba181b;
+  background-image: url("images/Bamia-Okra-Stewed-In-Tomato-Sauce-FT-RECIPE0224-2c4c813682fe424b84f16431ab027cce.webp");
+  font-size: 50px;
+}
